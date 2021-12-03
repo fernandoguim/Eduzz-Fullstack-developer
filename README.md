@@ -4,3 +4,6 @@
 
 
 ![interface](https://github.com/fernandoguim/Eduzz-Fullstack-developer/blob/main/genesis.PNG)
+
+link do jogo 
+https://aulas.fcgsolucoes.com.br/genesis/
